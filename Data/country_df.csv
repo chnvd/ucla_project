@@ -1,0 +1,188 @@
+country,city,country_name
+AE,Dubai,United Arab Emirates
+AR,Buenos Aires,Argentina
+AT,Vienna,Austria
+AU,Sydney,Australia
+AU,Melbourne,Australia
+AU,Perth,Australia
+BD,Dhaka,Bangladesh
+BE,Brussels,Belgium
+BG,Sofia,Bulgaria
+BH,Bahrain,Bahrain
+BR,Sao Paulo,Brazil
+BR,Salvador,Brazil
+BR,Rio de Janeiro,Brazil
+CA,Vancouver,Canada
+CA,Toronto,Canada
+CA,Montreal,Canada
+CA,Ottawa,Canada
+CA,Calgary,Canada
+CA,Edmonton,Canada
+CH,Lucerne,Switzerland
+CH,Zurich,Switzerland
+CH,Geneva,Switzerland
+CL,Santiago,Chile
+CN,Beijing,China
+CN,Shanghai,China
+CN,Xuzhou,China
+CN,Shenzhen,China
+CN,Hangzhou,China
+CN,Nanjing,China
+CN,Wuhan,China
+CN,Hefei,China
+CN,Kunming,China
+CN,Guangzhou,China
+CN,Chengdu,China
+CN,Tianjin,China
+CN,Nanchang,China
+CN,Changsha,China
+CN,Xiamen,China
+CN,Nanning,China
+CN,Fuzhou,China
+CN,Chongqing,China
+CN,Changchun,China
+CN,Suzhou,China
+CN,Shenyang,China
+CN,Guiyang,China
+CN,Zhengzhou,China
+CN,Xi'an,China
+CN,Taiyuan,China
+CN,Wenzhou,China
+CN,Lanzhou,China
+CN,Dongguan,China
+CN,Changzhou,China
+CN,Foshan,China
+CN,Guilin,China
+CN,Harbin,China
+CN,Jiaxing,China
+CN,Putian,China
+CN,Shaoxing,China
+CN,Shijiazhuang,China
+CN,Wuxi,China
+CN,Yiwu,China
+CN,Zibo,China
+CN,Dalian,China
+CN,Hohhot,China
+CN,Huizhou,China
+CN,Jinan,China
+CN,Luoyang,China
+CN,Ningbo,China
+CN,Qingdao,China
+CN,Urumqi,China
+CN,Nantong,China
+CN,Taizhou,China
+CN,Wuhu,China
+CZ,Prague,Czechia
+DE,Leipzig,Germany
+DE,Berlin,Germany
+DE,Karlsruhe,Germany
+DE,Dusseldorf,Germany
+DE,Hamburg,Germany
+DE,Nuremberg,Germany
+DE,Cologne,Germany
+DE,Frankfurt,Germany
+DE,Munich,Germany
+DK,Copenhagen,Denmark
+DR,Santo Domingo,Dominican Republic
+EC,Quito,Ecuador
+EG,Cairo,Egypt
+ES,Madrid,Spain
+ES,Barcelona,Spain
+ES,Bilbao,Spain
+ES,Seville,Spain
+ES,Malaga,Spain
+FI,Helsinki,Finland
+FR,Toulouse,France
+FR,Paris,France
+FR,Lyon,France
+FR,Rennes,France
+GR,Athens,Greece
+GR,Thessaloniki,Greece
+HK,Hong Kong,Hong Kong
+HU,Budapest,Hungary
+ID,Jakarta,Indonesia
+IL,Tel Aviv,Israel
+IN,Mumbai,India
+IN,Kochi,India
+IN,Delhi,India
+IN,Bangalore,India
+IN,Gurgaon,India
+IN,Nagpur,India
+IN,Ahmadabad,India
+IN,Hyderabad,India
+IN,Chennai,India
+IN,Jaipur,India
+IN,Lucknow,India
+IN,Kanpur,India
+IN,Surat,India
+IR,Tehran,"Iran, Islamic Republic of"
+IT,Turin,Italy
+IT,Milan,Italy
+IT,Rome,Italy
+IT,Brescia,Italy
+IT,Naples,Italy
+IT,Catania,Italy
+IT,Genova,Italy
+JP,Osaka,Japan
+JP,Tokyo,Japan
+JP,Fukuoka,Japan
+KR,Seoul,South Korea
+KR,Busan,South Korea
+KR,Incheon,South Korea
+KW,Kuwait City,Kuwait
+MX,Mexico City,Mexico
+MX,Guadalajara,Mexico
+MY,Kuala Lumpur,Malaysia
+NL,Amsterdam,Netherlands
+NO,Oslo,Norway
+NZ,Auckland,New Zealand
+PA,Panama City,Panama
+PE,Lima,Peru
+PH,Manila,Philippines
+PK,Lahore,Pakistan
+PL,Warsaw,Poland
+PL,Łódź,Poland
+PT,Lisbon,Portugal
+PT,Porto,Portugal
+QA,Doha,Qatar
+RO,Bucharest,Romania
+RO,Cluj-Napoca,Romania
+RS,Belgrade,Serbia
+RU,Moscow,Russian Federation
+RU,Nizhniy Novgorod,Russian Federation
+RU,Saint Petersburg,Russian Federation
+SA,Riyadh,Saudi Arabia
+SA,Jeddah,Saudi Arabia
+SA,Mecca,Saudi Arabia
+SA,Ad Dammam,Saudi Arabia
+SE,Stockholm,Sweden
+SE,Malmo,Sweden
+SE,Gothenburg,Sweden
+SG,Singapore,Singapore
+TH,Bangkok,Thailand
+TH,Chiang Mai,Thailand
+TR,Istanbul,Turkey
+TR,Izmir,Turkey
+TR,Ankara,Turkey
+TR,Bursa,Turkey
+TR,Adana,Turkey
+TW,Taipei,Taiwan
+TW,Kaohsiung,Taiwan
+TW,Tainan,Taiwan
+TW,Taichung,Taiwan
+UA,Kyiv,Ukraine
+UA,Kharkiv,Ukraine
+UK,London,United Kindgom
+US,Seattle,United States
+US,Los Angeles,United States
+US,San Francisco,United States
+US,Boston,United States
+US,New York,United States
+US,Honolulu,United States
+US,Miami,United States
+US,Washington,United States
+US,Chicago,United States
+US,Philadelphia,United States
+UZ,Tashkent,Uzbekistan
+VN,Hanoi,Vietnam
+VN,Ho Chi Minh City,Vietnam
